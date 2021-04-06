@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dumitruth
+- 👋 Hi, I’m Dan
 - https://y.at/🦍👑🤔✍️
 - 🌱 I’m currently looking at decentralized governance 
 - Generally interested in hard science, mathematics/statistics, longevity and decentralization 
